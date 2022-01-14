@@ -1,10 +1,7 @@
 ---
 layout: home
-permalink: "/"
+permalink: /
 title: Athena Jekyll Theme
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
-
+Software Architect, DevOps, Vision, CLEF, OpenCV, ML, Algorithm, Big/Linked/Open Data & NLP activist. Hadoop'er, Thicker, Quicker, Picker, Upper & Serial Coder
