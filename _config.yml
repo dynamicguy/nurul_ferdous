@@ -1,38 +1,28 @@
-
-# SEO
-title: Swiss Jekyll Theme
-description: A bold typographic theme inspired by Swiss design.
-
-# social
+title: Nurul Ferdous
+description: >-
+  Software Architect, DevOps, Vision, CLEF, OpenCV, ML, Algorithm,
+  Big/Linked/Open Data & NLP activist. Hadoop'er, Thicker, Quicker, Picker,
+  Upper & Serial Coder
 social_link: twitter
-social_username: broccolini
-github_repo: athena # the GitHub repo name for your project
-github_username: broccolini
+social_username: ferdous
+github_repo: nurul_ferdous
+github_username: dynamicguy
 theme_color: black
-
-# Theme
-remote_theme: 'internet-de-france/swiss'
-baseurl: '/nurul_ferdous'
-
-# Defaults
-
+remote_theme: internet-de-france/swiss
+baseurl: /nurul_ferdous
 defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
+  - scope:
+      path: ''
+      type: pages
     values:
-      category_name: ""
-  -
-    scope:
-      path: ""
-      type: "posts"
+      category_name: ''
+  - scope:
+      path: ''
+      type: posts
     values:
-      categories: ""
-
-# Stastic UI
-remote_theme_layouts: 
-  - ""
+      categories: ''
+remote_theme_layouts:
+  - ''
   - default
   - page
   - post
@@ -43,7 +33,6 @@ social_links:
   - instagram
   - medium
   - dribbble
-
 theme_colors:
   - black
   - blue
@@ -53,5 +42,3 @@ theme_colors:
   - red
   - white
   - yellow
-
-
